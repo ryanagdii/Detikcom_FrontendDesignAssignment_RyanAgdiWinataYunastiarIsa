@@ -1,1 +1,1 @@
-# Assignment for Detik Frontend Designer
+# Assignment for Detikcom Frontend Designer
